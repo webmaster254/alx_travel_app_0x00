@@ -71,7 +71,7 @@ alx_travel_app/
 3. **Install dependencies**
 
    ```bash
-   pip install -r alx_travel_app/requirements.txt
+   pip install -r requirements.txt
    ```
 
 4. **Set up environment variables**
